@@ -1,0 +1,1 @@
+git -c diff.mnemonicprefix=false -c core.quotepath=false --no-optional-locks commit -q -F C:\Users\Administrator\AppData\Local\Temp\fw5orukl.d5t
